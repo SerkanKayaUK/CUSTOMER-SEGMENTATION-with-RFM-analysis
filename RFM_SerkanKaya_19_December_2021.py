@@ -12,7 +12,8 @@
 # For example, it is desired to organize different campaigns for new customers and different campaigns to
 # retain customers, which are very profitable for the company.
 #
-# Segment customers with the RFM method.
+# Segment customers with the RFM method. You can download dataset from :
+# https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
 #
 ############################################################################################
 #   History of Dataset
