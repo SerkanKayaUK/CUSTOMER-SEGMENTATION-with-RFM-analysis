@@ -15,8 +15,7 @@ While a brand is addressing its customers, while providing an interaction with t
 
 <img width="755" alt="RFM" src="https://user-images.githubusercontent.com/70337150/148660972-30c5a865-e45c-4984-a8a1-464f690e94a2.png">
 
-Here we are going implement RFM application to solve a business problem in Python. I performed this project when I was participant in the bootcamp of VeriOkulu (Miuul) in 2021.
-
+Here we are going to implement RFM application to solve a business problem in Python.
 
 __Business Problem:__
 
